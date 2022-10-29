@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/5. Maven. DB. SQL.iml" filepath="$PROJECT_DIR$/.idea/5. Maven. DB. SQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_5_1/Lesson_5_1.iml" filepath="$PROJECT_DIR$/Lesson_5_1/Lesson_5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc11/mvntest.iml" filepath="$PROJECT_DIR$/jdbc11/mvntest.iml" />
+    </modules>
+  </component>
+</project>
